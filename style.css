@@ -85,6 +85,10 @@ summary {
     font-weight: bold;
     margin-bottom: 10px;
 }
+summary h2 {
+    display: inline;
+    margin: 0;
+}
 
 .bottom-line {
     border: none;
