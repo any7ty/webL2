@@ -48,7 +48,7 @@ p {
     margin-bottom: 20px;
 }
 
-.robot-img {
+.robot-jpg {
     border: 1px solid green;
     width: 150px;
     max-width: 100%;
@@ -61,15 +61,16 @@ p {
     margin-top: 10px;
 }
 
-.features {
+.specs-grid {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     margin: 25px 0;
     font-family: Arial, sans-serif;
     font-size: 15px;
 }
 
-ol {
+ul {
     line-height: 1.6;
     margin-bottom: 20px;
     padding-left: 20px;
